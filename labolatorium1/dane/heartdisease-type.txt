@@ -1,0 +1,13 @@
+a1 n
+a2 s
+a3 s
+a4 n
+a5 n
+a6 s
+a7 s
+a8 n
+a9 s
+a10 n
+a11 s
+a12 n
+a13 s
